@@ -41,8 +41,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-Special thanks to the open-source community for their valuable contributions and inspiration.
-
-Happy coding! 🚀
